@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558641040100.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C7631099",
+    "lastKnownWriteTime" : 8021860258963202080,
+    "last_content_update" : 1558641040100,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1D6EFCA7",
+        "caption" : "saludCompleta",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=saludCompleta&cache_key=1D6EFCA7",
+        "displayedObservations" : "651",
+        "environment" : "",
+        "expression" : "saludCompleta",
+        "object" : "saludCompleta",
+        "preview" : "0",
+        "totalObservations" : "651",
+        "variables" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
